@@ -5,7 +5,7 @@ either manually or automatically.
 
 The current script is written to Read fish eye images generated from ADAS cameras , Process them using image processing library OpenCV - C++
 
-## Dependancies##
+## Dependancies ##
 1. Language Used - C++
 2. Vision Library - OpenCV 4.XX
 
